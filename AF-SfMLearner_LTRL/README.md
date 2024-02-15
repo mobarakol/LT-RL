@@ -22,5 +22,5 @@ python visualize_pose.py
 
 visualize 3d reconstruction
 ```
-python visualize_reconstruction.py --data_path <path/to/dataset> --load_weights_folder <path/to/weight/folder> --eval_mono
+python evaluate_3d_reconstruction --data_path <path/to/dataset> --load_weights_folder <path/to/weight/folder> --eval_mono
 ```
